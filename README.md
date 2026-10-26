@@ -49,17 +49,3 @@ Aspiring SOC Analyst focused on security operations, threat detection, incident 
 * sentinel-soc-lab (Coming soon)
 
 
----
-
-## 🎯 Professional Focus
-
-My focus is on developing practical expertise in:
-
-* Security Operations Centre (SOC) investigations
-* Threat detection and incident response
-* Microsoft Sentinel and Defender XDR
-* Security monitoring and threat hunting
-* Digital forensics and network security
-
-I use this portfolio to document hands-on projects and demonstrate my technical capabilities as I continue developing my cybersecurity career.
-
