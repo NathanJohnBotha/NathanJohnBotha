@@ -26,15 +26,11 @@ This GitHub portfolio documents my practical projects, technical development, an
 
 * Microsoft Sentinel
 * Splunk
-* Kusto Query Language (KQL)
-* Log Analysis and Correlation
 
 **Endpoint Security & Threat Detection**
 
 * Microsoft Defender XDR
 * Microsoft Defender for Endpoint
-* Windows Event Logs
-* Sysmon
 
 **Incident Response & Digital Forensics**
 
@@ -54,13 +50,10 @@ This GitHub portfolio documents my practical projects, technical development, an
 
 ---
 
-## 📂 Cybersecurity Projects
+## 📂 Projects
 
-| Project | Description | Technologies |
-| ------- | ----------- | ------------ |
-|         |             |              |
-|         |             |              |
-|         |             |              |
+* sentinel-soc-lab (Coming soon)
+
 
 ---
 
