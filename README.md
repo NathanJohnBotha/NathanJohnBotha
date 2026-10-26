@@ -4,12 +4,6 @@
 
 Aspiring SOC Analyst focused on security operations, threat detection, incident response, and digital forensics.
 
-I hold the **Microsoft Certified: Security Operations Analyst Associate (SC-200)**, **Blue Team Level 1 (BTL1)**, and **CompTIA Security+** certifications.
-
-Through hands-on cybersecurity training and practical investigations, I have developed experience in security monitoring, threat analysis, incident response, and digital forensics.
-
-This GitHub portfolio documents my practical projects, technical development, and continued learning in cybersecurity.
-
 ---
 
 ## 🛡️ Certifications
