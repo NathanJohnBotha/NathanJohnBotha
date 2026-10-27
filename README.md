@@ -1,8 +1,8 @@
 # Nathan Botha
 
-### Cybersecurity | SOC Analyst 
+### SOC | Security Analyst 
 
-Aspiring SOC Analyst focused on security operations, threat detection, incident response, and digital forensics.
+Aspiring SOC Analyst focused on security operations, threat detection, incident response.
 
 ---
 
@@ -16,31 +16,9 @@ Aspiring SOC Analyst focused on security operations, threat detection, incident 
 
 ## 💻 Technical Skills
 
-**Security Information and Event Management (SIEM)**
+**Security:** SIEM (Microsoft Sentinel, Splunk), Microsoft Defender XDR, Microsoft Defender for Endpoint, security monitoring, alert triage, threat detection, incident response, threat hunting, log analysis, KQL, phishing analysis, digital forensics, MITRE ATT&CK, Wireshark, Autopsy.
 
-* Microsoft Sentinel
-* Splunk
-
-**Endpoint Security & Threat Detection**
-
-* Microsoft Defender XDR
-* Microsoft Defender for Endpoint
-
-**Incident Response & Digital Forensics**
-
-* Incident Investigation
-* Phishing Analysis
-* Network Traffic Analysis
-* Wireshark
-* Autopsy
-* FTK Imager
-
-**Security Operations**
-
-* Alert Triage
-* Threat Hunting
-* Security Monitoring
-* MITRE ATT&CK Framework
+**Technical:** Windows, Linux fundamentals, networking fundamentals.
 
 ---
 
