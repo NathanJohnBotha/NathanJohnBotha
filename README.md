@@ -46,17 +46,15 @@ Aspiring SOC Analyst focused on security operations, threat detection, incident 
 
 ## 📂 Projects
 
-### 🛡️ [SOC Investigations](https://github.com/NathanJohnBotha/SOC-Investigations)
-
-Structured security alert investigations and incident response documentation using Microsoft Sentinel, Defender XDR, and Splunk.
-
-- SOC alert investigation methodology
-- Reusable incident investigation templates
-- Security event analysis and documentation
-- Hands-on investigations (In Progress)
-
 ### 💻 Sentinel SOC Home Lab (Coming Soon)
 
-Building a Microsoft Sentinel-based SOC environment to practise security monitoring, threat detection, and incident response.
+
+### 🛡️ [SOC Investigations](https://github.com/NathanJohnBotha/SOC-Investigations)
+
+Hands-on SOC investigations focused on alert triage, threat detection, log analysis, and incident response.
+
+
+
+
 
 
