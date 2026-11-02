@@ -24,6 +24,14 @@ Aspiring SOC Analyst focused on security operations, threat detection, incident 
 
 ## 📂 Projects
 
+### 🛡️ [Phishing Email Investigation] (https://github.com/NathanJohnBotha/phishing-email-investigation)
+
+Conducted a phishing email investigation involving email header analysis,
+SPF/DKIM/DMARC authentication checks, Base64 decoding, and IOC extraction.
+Identified suspicious URL flagged for phishing by two security vendors.
+
+
+
 
 ### 🛡️ [SOC Investigations](https://github.com/NathanJohnBotha/SOC-Investigations)
 
