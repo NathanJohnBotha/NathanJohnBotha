@@ -1,6 +1,7 @@
 # Nathan Botha
 
-### SOC | Security Analyst 
+Cybersecurity
+
 
 Aspiring SOC Analyst focused on security operations, threat detection, incident response.
 
@@ -35,7 +36,7 @@ Identified suspicious URL flagged for phishing by two security vendors.
 
 ### 🛡️ [SOC Investigations](https://github.com/NathanJohnBotha/SOC-Investigations)
 
-Hands-on SOC investigations focused on alert triage, threat detection, log analysis, and incident response.
+SOC investigations focused on alert triage, threat detection, log analysis, and incident response.
 
 
 
