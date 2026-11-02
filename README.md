@@ -24,12 +24,6 @@ Aspiring SOC Analyst focused on security operations, threat detection, incident 
 
 ## 📂 Projects
 
-### 💻 [Microsoft Sentinel SOC Home Lab](https://github.com/NathanJohnBotha/Microsoft-Sentinel-SOC-Lab)
-
-SOC environment using Microsoft Sentinel, Log Analytics workspace, Windows VM, and Sysmon for security monitoring, log collection, and threat detection using KQL.
-
-**Status:** In Progress
-
 
 ### 🛡️ [SOC Investigations](https://github.com/NathanJohnBotha/SOC-Investigations)
 
