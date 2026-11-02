@@ -1,9 +1,4 @@
-# Nathan Botha
-
-Cybersecurity
-
-
-Aspiring SOC Analyst focused on security operations, threat detection, incident response.
+# Cybersecurity
 
 ---
 
