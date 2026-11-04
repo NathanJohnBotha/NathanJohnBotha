@@ -1,6 +1,3 @@
-# Cybersecurity
-
-
 ## 🛡️ Certifications
 
 * **Microsoft Certified: Security Operations Analyst Associate (SC-200)**
