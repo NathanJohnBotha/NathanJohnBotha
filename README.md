@@ -25,9 +25,9 @@ Identified suspicious URL flagged for phishing by two security vendors.
 
 
 
-### 🛡️ [SOC Investigations](https://github.com/NathanJohnBotha/SOC-Investigations)
+### 🛡️ [Network Traffic Analysis](https://github.com/NathanJohnBotha/Network-traffic-analysis)
 
-SOC investigations focused on alert triage, threat detection, log analysis, and incident response.
+
 
 
 
